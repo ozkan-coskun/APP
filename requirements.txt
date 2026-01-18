@@ -1,0 +1,10 @@
+streamlit
+plotly
+folium
+streamlit-folium
+xarray
+netCDF4
+numpy
+scipy
+matplotlib
+
